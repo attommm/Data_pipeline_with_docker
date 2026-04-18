@@ -1,0 +1,6 @@
+.env
+*.csv
+.dockerignore
+/logs
+*.log
+logs/*.log.*
